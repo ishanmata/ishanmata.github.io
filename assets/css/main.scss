@@ -1,0 +1,35 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.author__avatar img {
+  width: 240px !important;
+  height: auto !important;
+  max-width: none !important;
+  border-radius: 0 !important;
+  object-fit: cover;
+  filter: none !important;
+  -webkit-filter: none !important;
+  transition: none !important;
+  opacity: 1 !important;
+}
+.author__avatar a img.u-photo {
+  opacity: 1 !important;
+  filter: none !important;
+  -webkit-filter: none !important;
+  mix-blend-mode: normal !important;
+  transition: none !important;
+}
+
+/* Backup: clear on container too */
+.author__avatar {
+  opacity: 1 !important;
+}
+
+
