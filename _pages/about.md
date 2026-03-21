@@ -4,11 +4,11 @@
 
 
 # About me
-I am a postdoctoral researcher at the Indian Statistical Institute (Delhi Center). Prior to this, I did my PhD at the Birla Institute of Technology and Science -- Pilani. 
+I am a postdoctoral researcher at the Indian Statistical Institute (Delhi Center). Prior to this, I did my PhD at the Birla Institute of Technology and Science -- Pilani. More details in this [*Curriculum Vitae*.](/assets/selfcv260321.pdf) 
 
 ![My pic](/assets/images/ishan-pic.jpg){: width="150px"}
 
-My area of work is differential cohomology. During my PhD I mainly studied differential characters (which are a differential refinement of *ordinary/singular* cohomology) and their relationship to families of flat connections on vector bundles. I am now studying the Atiyah--Singer index theory and differential K-theory. 
+My area of work is differential cohomology. During my PhD I mainly studied differential characters (which are a differential refinement of *ordinary/singular* cohomology) and their relationship to families of flat connections on vector bundles. I am now studying the Atiyah--Singer index theory and differential K-theory.
 
 More broadly, I am interested in exploring the interactions between Differential Geometry, Algebraic Topology, and Physics. In the long run, I wish to learn subjects such as:
 - *generalised* differential cohomology theories and their relationship to M-theory
