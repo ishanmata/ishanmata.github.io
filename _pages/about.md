@@ -4,7 +4,7 @@
 
 
 # About me
-I am a postdoctoral researcher at the Indian Statistical Institute (Delhi Center). Prior to this, I did my PhD at the Birla Institute of Technology and Science -- Pilani. More details in this [*Curriculum Vitae*.](/assets/selfcv260321.pdf) 
+I am a postdoctoral researcher at the Indian Statistical Institute (Delhi Center). Prior to this, I did my PhD at the Birla Institute of Technology and Science -- Pilani. For more details, please refer to my [*Curriculum Vitae*.](/assets/selfcv260321.pdf) 
 
 ![My pic](/assets/images/ishan-pic.jpg){: width="150px"}
 
