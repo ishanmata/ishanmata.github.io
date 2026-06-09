@@ -43,6 +43,5 @@ Some useful FOSS are:
 [Arxiv to Bib](https://arxiv2bibtex.org/)
 
 
-- This is a temporary test message. Please ignore.
 
 [stallmantalk]: https://www.youtube.com/watch?v=Ag1AKIl_2GM 
