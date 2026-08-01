@@ -4,7 +4,7 @@
 
 
 # About me
-I am a postdoctoral researcher at the Indian Statistical Institute (Delhi Center). Prior to this, I did my PhD at the Birla Institute of Technology and Science -- Pilani. For more details, please refer to my [*Curriculum Vitae*.](/assets/selfcv260321.pdf) 
+I am an independent researcher. Earlier, I was a postdoctoral visiting fellow at the Indian Statistical Institute (Delhi Center). I did my PhD at the Birla Institute of Technology and Science -- Pilani. For more details, please refer to my [*Curriculum Vitae*.](/assets/selfcv260321.pdf) 
 
 ![My pic](/assets/images/ishan-pic.jpg){: width="150px"}
 
@@ -12,10 +12,9 @@ My area of work is differential cohomology. During my PhD I mainly studied diffe
 
 More broadly, I am interested in exploring the interactions between Differential Geometry, Algebraic Topology, and Physics. In the long run, I wish to learn subjects such as:
 - *generalised* differential cohomology theories and their relationship to M-theory
-- higher categories and higher gauge theories,
-- $$L_\infty$$ algebras and their relationship to classical field theory and string theory
-- bundle gerbes, and
-- applications of differential K-theory to T-duality in String Theory. 
+- higher categories, higher geometry, and higher gauge theories,
+- $$L_\infty$$ algebras and their relationship to classical field theory and string theory, and
+- applications of topological/differential K-theory to Quantum Field Theory and String Theory. 
 
 Apart from Mathematics and Physics, I am interested in the RTI Act and Constitutional law. Am also an FOSS enthusiast. 
 
@@ -40,6 +39,6 @@ M.Phil. Thesis [Non-gaussianities in the cosmic microwave background](https://th
 
 :envelope: Email: ishanmata [at] gmail (dot) com
 
-Here is my [public key](/assets/ishan_public_key_2025.asc)
+Here is my [public gpg key](/assets/ishan_public_key_2025.asc)
 
 Social media: [Mathstodon](https://mathstodon.xyz/@ishanmata)
