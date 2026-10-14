@@ -2,7 +2,6 @@
 {: .no_toc }
 
 
-
 # About me
 I am an independent researcher. Earlier, I was a postdoc at the Indian Statistical Institute (Delhi Center). I did my PhD at the Birla Institute of Technology and Science -- Pilani. For more details, please refer to my [*Curriculum Vitae*.](/assets/selfcv260802.pdf) 
 
