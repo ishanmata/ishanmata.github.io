@@ -38,4 +38,4 @@ Essays, articles, speeches, videos, and documentaries that I found insightful/in
 
 [Why didn't they talk to you privately? On "Call Out culture" and power differentials](https://thebias.com/2016/02/09/why-didnt-they-talk-to-you-privately-on-call-out-culture-and-power-differentials/) by Annalee
 
-['Invent your own life's meaning'](https://www.neil.blog/full-speech-transcript/invent-your-own-lifes-meaning-by-bill-watterson) by Bill Waterson
+['Invent your own life's meaning'](https://www.neil.blog/full-speech-transcript/invent-your-own-lifes-meaning-by-bill-watterson) by Bill Watterson
